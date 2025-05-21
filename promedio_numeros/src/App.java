@@ -8,6 +8,9 @@ public class App {
         String numero2 = JOptionPane.showInputDialog("ingresa el segundo numero: ");
         System.out.println(Integer.parseInt(numero2));
 
+        String numero3 = JOptionPane.showInputDialog("ingresa el tercer numero: ");
+        System.out.println(Integer.parseInt(numero3));
+
 
     }
 }
